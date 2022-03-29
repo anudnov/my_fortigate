@@ -21,3 +21,6 @@ execute ha failover unset 1
 ```
 get system ha status 
 ```
+
+
+https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-force-HA-failover/ta-p/196696
