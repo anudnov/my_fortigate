@@ -8,3 +8,16 @@ To view the failover status.
 ```
 execute ha failover status
 ```
+
+To view the system status of a unit in forced HA failover.
+```
+get system ha status
+```
+
+To stop the failover status.
+```
+execute ha failover unset 1
+```
+```
+get system ha status 
+```
