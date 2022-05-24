@@ -1,0 +1,128 @@
+VLAN2237
+10.200.237.1/255.255.255.248
+VLAN2238
+10.200.238.1/255.255.255.248
+VLAN2239
+10.200.239.1/255.255.255.248
+VLAN2240
+10.200.240.1/255.255.255.248
+VLAN2241
+10.200.241.1/255.255.255.248
+VLAN2242
+10.200.242.1/255.255.255.248
+VLAN2243
+10.200.243.1/255.255.255.248
+VLAN2244
+10.200.244.1/255.255.255.248
+VLAN2245
+10.200.245.1/255.255.255.248
+VLAN2246
+10.200.246.1/255.255.255.248
+VLAN2247
+10.200.247.1/255.255.255.248
+VLAN2248
+10.200.248.1/255.255.255.248
+VLAN2249
+10.200.249.1/255.255.255.248
+VLAN2250
+10.200.250.1/255.255.255.248
+VLAN2251
+10.200.251.1/255.255.255.248
+VLAN2252
+10.200.252.1/255.255.255.248
+VLAN2253
+10.200.253.1/255.255.255.248
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VLAN2200
+10.200.200.1/255.255.255.248
+
+
+config system interface
+
+edit VLAN2014
+set vdom root
+set ip 10.200.14.1 255.255.255.248
+set description 
+set role lan
+set interface port9
+set vlanid 2014
+next
+
+edit VLAN2015
+set vdom root
+set ip 10.200.15.1 255.255.255.248
+set role lan
+set interface port9
+set vlanid 2015
+next
+
+edit VLAN2016
+set vdom root
+set ip 10.200.16.1 255.255.255.248
+set role lan
+set interface port9
+set vlanid 2016
+next
+
+edit VLAN2017
+set vdom root
+set ip 10.200.17.1 255.255.255.248
+set role lan
+set interface port9
+set vlanid 2017
+next
+
+edit VLAN2018
+set vdom root
+set ip 10.200.18.1 255.255.255.248 
+set role lan
+set interface port9
+set vlanid 2018
+next
+
+edit VLAN2019
+set vdom root
+set ip 10.200.19.1 255.255.255.248
+set role lan
+set interface port9
+set vlanid 2019
+next
+
+edit VLAN2020
+set vdom root
+set ip 10.200.20.1 255.255.255.248
+set role lan
+set interface port9
+set vlanid 2020
+next
+end
+
+
+
+
+
+
+
+
+
+
+
+

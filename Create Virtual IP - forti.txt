@@ -1,0 +1,54 @@
+config firewall vip
+edit VPS_185.60.171.14
+set extip 185.60.171.14
+set extintf "any"
+set mappedip 10.171.14.1
+next
+edit VPS_185.60.171.15
+set extip 185.60.171.15
+set extintf "any"
+set mappedip 10.171.15.1
+next
+edit VPS_185.60.171.16
+set extip 185.60.171.16
+set extintf "any"
+set mappedip 10.171.16.1
+next
+edit VPS_185.60.171.17
+set extip 185.60.171.17
+set extintf "any"
+set mappedip 10.171.17.1
+next
+edit VPS_185.60.171.18
+set extip 185.60.171.18
+set extintf "any"
+set mappedip 10.171.18.1
+next
+
+edit VPS_185.60.170.101
+set extip 185.60.170.101
+set extintf "any"
+set mappedip 10.200.101.2
+next
+edit VPS_185.60.170.102
+set extip 185.60.170.102
+set extintf "any"
+set mappedip 10.200.102.2
+next
+edit VPS_185.60.170.103
+set extip 185.60.170.103
+set extintf "any"
+set mappedip 10.200.103.2
+next
+edit VPS_185.60.170.104
+set extip 185.60.170.104
+set extintf "any"
+set mappedip 10.200.104.2
+next
+
+end
+
+
+
+
+
