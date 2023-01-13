@@ -10,7 +10,7 @@ get system ha status
 ```
 execute ha manage 1
 ```
-### If you will see error:
+- If you will see error:
   ```
   WARNING: File System Check Recommended! Unsafe reboot may have caused inconsistency in disk drive.
   It is strongly recommended that you check file system consistency before proceeding.
@@ -18,7 +18,7 @@ execute ha manage 1
   Note: The device will reboot and scan during startup. This may take up to an hour
   ```
   
-#### Run command to check and reboot device:
+- Run command to check and reboot device:
 ```
 execute disk scan 17
 ```
