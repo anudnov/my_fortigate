@@ -6,7 +6,7 @@ Index:
 ##### Master: FGXXXXX1, operating cluster index = 0
 ##### Slave : FGXXXXX2, operating cluster index = 1
   
-2. conecct to slave
+### Sonecct to slave:
 ```
 execute ha manage 1
 ```
