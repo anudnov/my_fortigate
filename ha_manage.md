@@ -2,10 +2,10 @@
 ```
 get system ha status
 ```
-#### Index:
-  _Master: FGXXXXX1, operating cluster index = 0
-  Slave : FGXXXXX2, operating cluster index = 1_
-  
+  ```
+  Master: FGXXXXX1, operating cluster index = 0 
+  Slave : FGXXXXX2, operating cluster index = 1
+  ```
 ### Sonecct to slave:
 ```
 execute ha manage 1
