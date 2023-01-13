@@ -25,5 +25,6 @@ execute ha manage 1
    ```
 
 
-Technical Tip: Managing individual cluster units with the CLI command 'execute ha manage' :
+#### Technical Tip: Managing individual cluster units with the CLI command 'execute ha manage' :
+
 (https://community.fortinet.com/t5/FortiGate/Technical-Tip-Managing-individual-cluster-units-with-the-CLI/ta-p/197110)
