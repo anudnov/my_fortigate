@@ -2,8 +2,8 @@
 ```
 get system ha status
 ```
-  _Index:
-  Master: FGXXXXX1, operating cluster index = 0
+#### Index:
+  _Master: FGXXXXX1, operating cluster index = 0
   Slave : FGXXXXX2, operating cluster index = 1_
   
 ### Sonecct to slave:
