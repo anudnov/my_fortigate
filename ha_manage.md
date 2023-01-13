@@ -1,12 +1,11 @@
 ### Check statusand index:
 ```
 get system ha status
-```
-  ```
+
   Master: FGXXXXX1, operating cluster index = 0 
   Slave : FGXXXXX2, operating cluster index = 1
   ```
-### Sonecct to slave:
+### Conecct to slave:
 ```
 execute ha manage 1
 ```
