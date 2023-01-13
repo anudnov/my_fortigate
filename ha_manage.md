@@ -1,7 +1,8 @@
 ### Check statusand index:
 ```
 get system ha status
-
+```
+  ```
   Master: FGXXXXX1, operating cluster index = 0 
   Slave : FGXXXXX2, operating cluster index = 1
   ```
