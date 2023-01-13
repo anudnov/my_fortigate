@@ -1,10 +1,10 @@
-### check statusand index
+### Check statusand index:
 ```
 get system ha status
 ```
-Index:
+_Index:
 ##### Master: FGXXXXX1, operating cluster index = 0
-##### Slave : FGXXXXX2, operating cluster index = 1
+##### Slave : FGXXXXX2, operating cluster index = 1_
   
 ### Sonecct to slave:
 ```
