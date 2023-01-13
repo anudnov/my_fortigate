@@ -3,8 +3,8 @@
 get system ha status
 ```
 Index:
-Master: FGXXXXX1, operating cluster index = 0
-Slave : FGXXXXX2, operating cluster index = 1
+##### Master: FGXXXXX1, operating cluster index = 0
+##### Slave : FGXXXXX2, operating cluster index = 1
   
 2. conecct to slave
 ```
