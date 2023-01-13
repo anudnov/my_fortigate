@@ -20,6 +20,6 @@ execute ha manage 1
   ```
   
 - Run command to check and reboot device:
-```
-execute disk scan 17
-```
+   ```
+   execute disk scan 17
+   ```
